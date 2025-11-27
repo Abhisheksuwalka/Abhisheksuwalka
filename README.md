@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhisheksuwalka&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheksuwalka&layout=compact&theme=radical&hide_border=true&langs_count=8)
 <!--
 **Abhisheksuwalka/Abhisheksuwalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
