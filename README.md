@@ -1,6 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Data+Science+%26+ML+Engineer;Production+AI+Systems;Python+%7C+PyTorch+%7C+FastAPI)](https://git.io/typing-svg)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheksuwalka&layout=compact&theme=radical&hide_border=true&langs_count=8) [![trophy](https://github-profile-trophy.vercel.app/?username=Abhisheksuwalka&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheksuwalka&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhisheksuwalka&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhisheksuwalka&color=brightgreen&style=for-the-badge)
 
 <!--
